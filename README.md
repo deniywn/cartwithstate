@@ -1,2 +1,0 @@
-# cartwithstate
-Created with CodeSandbox
